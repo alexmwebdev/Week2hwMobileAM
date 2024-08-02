@@ -1,0 +1,14 @@
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\bin\Debug\LinkedListGenericClass.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\bin\Debug\LinkedListGenericClass.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\bin\Debug\LinkedListGenericClass.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\bin\Debug\LinkedListGenericClass.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\bin\Debug\LinkedListGenericClass.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\bin\Debug\LinkedListGenericClass.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\LinkedListGenericClass\obj\Debug\LinkedListGenericClass.pdb

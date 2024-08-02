@@ -1,0 +1,14 @@
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\obj\Debug\StackProgram.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\obj\Debug\StackProgram.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\bin\Debug\StackProgram.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\bin\Debug\StackProgram.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\bin\Debug\StackProgram.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\obj\Debug\StackProgram.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\StackProgram\obj\Debug\StackProgram.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\bin\Debug\StackProgram.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\bin\Debug\StackProgram.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\bin\Debug\StackProgram.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\obj\Debug\StackProgram.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\obj\Debug\StackProgram.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\obj\Debug\StackProgram.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\StackProgram\obj\Debug\StackProgram.pdb

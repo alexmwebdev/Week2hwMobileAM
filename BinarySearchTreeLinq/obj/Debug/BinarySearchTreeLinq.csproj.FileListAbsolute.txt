@@ -1,0 +1,14 @@
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\bin\Debug\BinarySearchTreeLinq.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\bin\Debug\BinarySearchTreeLinq.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\bin\Debug\BinarySearchTreeLinq.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\bin\Debug\BinarySearchTreeLinq.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\bin\Debug\BinarySearchTreeLinq.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\bin\Debug\BinarySearchTreeLinq.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\BinarySearchTreeLinq\obj\Debug\BinarySearchTreeLinq.pdb

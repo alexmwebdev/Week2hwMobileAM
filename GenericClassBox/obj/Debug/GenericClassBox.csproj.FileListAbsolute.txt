@@ -1,0 +1,14 @@
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\bin\Debug\GenericClassBox.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\bin\Debug\GenericClassBox.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\bin\Debug\GenericClassBox.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\obj\Debug\GenericClassBox.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\obj\Debug\GenericClassBox.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\obj\Debug\GenericClassBox.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\GenericClassBox\GenericClassBox\obj\Debug\GenericClassBox.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\bin\Debug\GenericClassBox.exe.config
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\bin\Debug\GenericClassBox.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\bin\Debug\GenericClassBox.pdb
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\obj\Debug\GenericClassBox.csproj.AssemblyReference.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\obj\Debug\GenericClassBox.csproj.CoreCompileInputs.cache
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\obj\Debug\GenericClassBox.exe
+C:\Diploma of IT (Advanced Programming)\Mobile\week 2 hw\Week2hwMobile\GenericClassBox\obj\Debug\GenericClassBox.pdb
